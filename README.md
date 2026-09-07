@@ -161,4 +161,4 @@ krishimitraai/
 
 ## 📄 License
 
-This project is developed for academic purposes as part of the Major Project 2025-26 at NCE Hassan.
+This project is developed for academic purposes as part of the Major Project 2026-27 at NCE Hassan.
