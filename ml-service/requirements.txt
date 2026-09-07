@@ -1,0 +1,53 @@
+# Core
+fastapi==0.111.0
+uvicorn[standard]==0.30.0
+pydantic==2.7.4
+python-multipart==0.0.9
+
+# RAG Pipeline
+chromadb==0.5.3
+sentence-transformers==3.0.1
+
+# LLM
+ollama==0.2.1
+google-genai>=1.0.0  # Gemini fallback - requires GEMINI_API_KEY env var
+
+# Disease Detection (CNN)
+tensorflow==2.16.1
+Pillow==10.3.0
+
+# Crop Recommendation
+xgboost==2.0.3
+scikit-learn==1.5.0
+shap==0.45.1
+joblib==1.4.2
+
+# Voice / NLP
+openai-whisper==20231117
+spacy==3.7.5
+
+# ONNX Export
+skl2onnx==1.16.0
+onnx==1.16.1
+
+# KAG - Neo4j knowledge graph
+neo4j==5.20.0
+
+# AgriPerplexity - web search + reranking
+tavily-python==0.3.3
+beautifulsoup4==4.12.3
+
+rank-bm25==0.2.2
+
+# Voice / TTS
+TTS==0.22.0
+
+# Utilities
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.0
+python-dotenv==1.0.1
+PyPDF2==3.0.1
+httpx==0.27.0
+pymongo==4.7.2
+librosa==0.10.2
