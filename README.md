@@ -4,7 +4,7 @@
 
 > *Empowering Indian farmers with AI-driven agricultural intelligence — no internet required.*
 
-**Major Project 2025-26 | Department of CSE, NCE Hassan**
+**Major Project 2026-27 | Department of CSE, NCE Hassan**
 
 ---
 
